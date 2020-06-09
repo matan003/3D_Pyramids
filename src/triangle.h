@@ -1,0 +1,1 @@
+void drawTriangle(SDL_Renderer* Renderer);
